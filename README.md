@@ -17,10 +17,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ancgci&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Fale conosco pelo WhatsApp
 <a href="https://wa.me/5527992456277?text=Olá,%20como%20posso%20te%20ajudar?">
 <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-<span>Fale conosco pelo WhatsApp</span>
 </a>
 
 ## Count
