@@ -22,11 +22,8 @@
 <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
-## Count
-[![](https://visitcount.itsvg.in/api?id=ancgci&icon=1&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sr.antoniocarlos@gmail.com) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sr.antoniocarlos@gmail.com) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
