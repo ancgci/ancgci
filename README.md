@@ -22,8 +22,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antoniogarcias) 
 
-## 💰 You can help me by Donating
+## 💰 You can help
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sr.antoniocarlos@gmail.com) 
+Wallet: 0x26C9a6Be55192796Ef00Ef10E32243Ab2705F742
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
