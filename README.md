@@ -1,5 +1,13 @@
 # 💫 About Me:
- Um entusiasta da tecnologia da informação com um interesse por novas tecnologias como a Web 3.0. Com experiência em diferentes setores desde comercial e serviços, sou um profissional versátil e adaptável. Tenho uma abordagem exigente quando se trata da execução de processos e da resolução de problemas, sempre buscando eficiência e eficácia. Tenho conhecimentos em testes manuais, testes de sistema web automatizados, testes de aceitação automatizados , testes de API, Testes de Integração e testes manuais de aplicativos móveis; como também HTML, CSS, SQL, Python, JavaScript, Solidity, MQL4, Java. Como também frameworks de teste Jest, Robot, Cypress, Selenium IDE e Selenium Webdriver . E também em ferramentas de apoio no desenvolvimento e testes como BDD, Cucumber, JIRA, Confluence, GITHUB, CI/CD, Postman Test e Docker. Acredito que a tecnologia da informação tem o poder de impulsionar a inovação e transformar os negócios.
+Profissional com formação superior completa como Analista em Desenvolvimento de Sistemas como também com formação adicional para Analista de Testes de Software .
+
+Tenho conhecimentos em testes manuais e automáticos e frameworks de teste como Jest, Robot , Cypress e Selenium, como criação, documentação e execução de cenários de teste, conhecimento teórico e prático em algumas linguagens de programação e sou formado em Análise e Desenvolvimento de Sistemas. Como também em ferramentas de apoio no desenvolvimento e testes como o JIRA, Confluence, e GITHUB, CI/CD, Postman e metodologia Agíl Scrum.
+
+Possuo vivência em outras áreas além TI como comercial e serviços e estou entusiasmado em contribuir para a "squad" de desenvolvimento.
+
+Na minha última experiência desenvolvi atributos como resolução de problemas, atendimento ao cliente, análise sistêmica, avaliação de criticidade e vivência em regime de SLA e dentre outros. 
+
+Acredito que a tecnologia da informação tem o poder de impulsionar a inovação e transformar os negócios.
 
 ### 😂 Contact me by WhatsApp
 <a href="https://wa.me/5527981702061?text=Olá,%20como%20posso%20te%20ajudar?">
