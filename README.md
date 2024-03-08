@@ -9,10 +9,18 @@ Na minha última experiência desenvolvi atributos como resolução de problemas
 
 Acredito que a tecnologia da informação tem o poder de impulsionar a inovação e transformar os negócios.
 
-### 😂 Contact me by WhatsApp
+### 😂 Contato pelo WhatsApp
 <a href="https://wa.me/5527981702061?text=Olá,%20como%20posso%20te%20ajudar?">
 <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
+
+### 🏆 Curriculo
+
+   <button onclick="window.open('./Antonio_Garcia_Tester.pdf', '_blank');"
+      class="w3-circle w3-btn w3-button w3-light-grey w3-padding-large w3-section">
+      <i class="fa fa-download w3-border w3-round-xlarge"></i> Obtenha o Currículo do Antonio aqui
+    </button>
+
 
 # 💻 Tech Stack:
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
@@ -33,7 +41,7 @@ Acredito que a tecnologia da informação tem o poder de impulsionar a inovaçã
 ## 💰 You can help
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sr.antoniocarlos@gmail.com) 
 
-## Wallet  
+## Wallet Multichain   
 -  0x26C9a6Be55192796Ef00Ef10E32243Ab2705F742
 
   
