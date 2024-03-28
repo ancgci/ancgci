@@ -10,7 +10,7 @@ Na minha última experiência desenvolvi atributos como resolução de problemas
 Acredito que a tecnologia da informação tem o poder de impulsionar a inovação e transformar os negócios.
 
 ### 😂 Contato pelo WhatsApp
-<a href="https://wa.me/5527981702061?text=Olá,%20como%20posso%20te%20ajudar?">
+<a href="https://wa.me/5527992456277?text=Olá,%20como%20posso%20te%20ajudar?">
 <img src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
