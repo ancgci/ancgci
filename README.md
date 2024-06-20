@@ -1,5 +1,5 @@
 # 💫 About Me:
-Profissional com formação superior completa como Analista em Desenvolvimento de Sistemas como também com formação adicional para Analista de Testes de Software .
+Profissional em transição de carreira com formação superior completa como Analista em Desenvolvimento de Sistemas como também com formação adicional para Analista de Testes de Software .
 
 Tenho conhecimentos em testes manuais e automáticos e frameworks de teste como Jest, Robot , Cypress e Selenium, como criação, documentação e execução de cenários de teste, conhecimento teórico e prático em algumas linguagens de programação. Como também em ferramentas de apoio no desenvolvimento e testes como o JIRA, Confluence, e GITHUB, CI/CD, Postman e metodologia Agíl Scrum.
 
